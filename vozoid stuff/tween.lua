@@ -1,4 +1,4 @@
-local Signal = loadstring(game:HttpGet("https://raw.githubusercontent.com/vozoid/utility/main/Signal.lua"))()
+local Signal = loadstring(game:HttpGet("https://raw.githubusercontent.com/meow1fied/others/refs/heads/main/vozoid%20stuff/signal.lua"))()
 
 local render = game:GetService("RunService").RenderStepped
 local sqrt, sin, pi, halfpi, doublepi = math.sqrt, math.sin, math.pi, math.pi / 2, math.pi * 2
